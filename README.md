@@ -76,6 +76,8 @@ This function is used to log the user out. It clears the user's information from
 
 This function can be found in [`./app/lib/actions.ts`](./app/lib/actions.ts).
 
+Edit
+
 # Completing the Quest
 ## Deploying the app locally
   1. Navigate to [`./app/`](./app/). This is the app's root directory. All commands in the following steps should be run from this directory.
